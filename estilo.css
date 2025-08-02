@@ -12,6 +12,7 @@ nav {
     background-color: #e3e0d6;
     text-align: center;
     padding: 30px;
+    width: 1640px;
 }
 
 nav a {
@@ -112,5 +113,3 @@ body {
     border: 2px solid #92815a;
     margin: 90px;
 }
-
-
